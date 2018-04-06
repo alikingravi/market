@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # marketsimple
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# market
+The best online market
+>>>>>>> caa0fd13ba986647d367e6bc88651947d729dce9
